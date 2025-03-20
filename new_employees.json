@@ -1,0 +1,14 @@
+{
+    "employees": [
+        {
+            "id": 101,
+            "name": "Alice Johnson",
+            "age": 22,
+            "major": "Computer Science",
+            "contact": {
+                "phone": "555-1234",
+                "email": "alice.johnson@example.com"
+            }
+        }
+    ]
+}
